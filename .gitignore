@@ -1,0 +1,16 @@
+# Python virtual environment
+backend/.backend-venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# SQLite database
+backend/*.db
+
+# Environment variables / secrets
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
