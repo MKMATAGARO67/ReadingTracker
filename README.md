@@ -4,7 +4,7 @@ A full-stack personal reading tracker for managing books, tracking reading progr
 
 ## Project Status
 
-🚧 **In Development**
+**In Development**
 
 The project is being developed incrementally, starting with the Flask backend and REST API.
 
